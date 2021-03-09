@@ -9,7 +9,7 @@ Sounds confusing and annoying right? That's Tetrerret
 
 This game assumes that you have played tetris before so it might be difficult if you haven't.<br>
 If (for some reason) you haven't played tetris before then I *really* recommend you give it a shot, even if you don't play tetrerret.<br>
-You can play at the [offical site](https://tetris.com/play-tetris) or at another site such as [tetrio](https://tetr.io/)
+You can play at the [official site](https://tetris.com/play-tetris) or at another site such as [tetrio](https://tetr.io/)
 
 
 ### The idea
